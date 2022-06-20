@@ -13,6 +13,7 @@
 		A49DA2DF2860D1ED00306A6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A49DA2DD2860D1ED00306A6F /* Main.storyboard */; };
 		A49DA2E12860D1EE00306A6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A49DA2E02860D1EE00306A6F /* Assets.xcassets */; };
 		A49DA2E42860D1EE00306A6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A49DA2E22860D1EE00306A6F /* LaunchScreen.storyboard */; };
+		A49DA2EC2860D8BC00306A6F /* UIKitExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49DA2EB2860D8BC00306A6F /* UIKitExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A49DA2E02860D1EE00306A6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A49DA2E32860D1EE00306A6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A49DA2E52860D1EE00306A6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A49DA2EB2860D8BC00306A6F /* UIKitExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A49DA2D92860D1ED00306A6F /* SceneDelegate.swift */,
 				A49DA2DB2860D1ED00306A6F /* ViewController.swift */,
 				A49DA2DD2860D1ED00306A6F /* Main.storyboard */,
+				A49DA2EB2860D8BC00306A6F /* UIKitExtension.swift */,
 				A49DA2E02860D1EE00306A6F /* Assets.xcassets */,
 				A49DA2E22860D1EE00306A6F /* LaunchScreen.storyboard */,
 				A49DA2E52860D1EE00306A6F /* Info.plist */,
@@ -141,6 +144,7 @@
 				A49DA2DC2860D1ED00306A6F /* ViewController.swift in Sources */,
 				A49DA2D82860D1ED00306A6F /* AppDelegate.swift in Sources */,
 				A49DA2DA2860D1ED00306A6F /* SceneDelegate.swift in Sources */,
+				A49DA2EC2860D8BC00306A6F /* UIKitExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
